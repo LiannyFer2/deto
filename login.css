@@ -140,3 +140,9 @@ h2
 	height: 44px;
 }
 
+button{
+    border: none;
+    cursor: pointer;
+    background-color: green;
+    color: white;
+}
