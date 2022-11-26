@@ -13,7 +13,7 @@ body
 	align-items: center;
 	min-height: 100vh;
 	flex-direction: column;
-	background: rgba(200, 195, 195, 0.482);
+	background: rgba(255, 255, 255, 0.855);
 }
 
 .box 
